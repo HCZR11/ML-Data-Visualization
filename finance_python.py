@@ -1,15 +1,4 @@
-# import datetime as dt
-# import matplotlib.pyplot as plt
-# from matplotlib import style
-# import pandas_datareader.data as web
-#
-# style.use('ggplot')
-#
-# start = dt.datetime(year=2000, month=1, day=1)
-# end = dt.datetime(year=2022, month=11, day=22)
-#
-# df = web.DataReader('TESLA', 'yahoo', start, end)
-# print(df.head())
+
 
 import pandas as pd
 from numpy.distutils.system_info import p
